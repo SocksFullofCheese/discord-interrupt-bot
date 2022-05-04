@@ -2,8 +2,8 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 
 /* Config */
-const token = ""; // Bot token here
-const ownerID = 0; // Optional, put your own ID here so that you're the only one who can run bot commands
+const token = "OTcxNTA2Njg2MDQ3MTc4Nzcz.YnLgGw.tkdGxjzQ3wCaJ2rTZjh_P1mohTw"; // Bot token here
+const ownerID = 472206492112519202; // Optional, put your own ID here so that you're the only one who can run bot commands
 /* Config */
 
 let victim = 0; // This variable will be dynamically updated to the ID of the person you specify with !troll, best to leave this alone
